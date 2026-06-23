@@ -1,0 +1,36 @@
+{
+  "abi_version": 1,
+  "consent_transitions": [
+    {
+      "event": "suspend",
+      "from": "Granted",
+      "to": "Suspended",
+      "window": 5
+    },
+    {
+      "event": "resume",
+      "from": "Suspended",
+      "to": "Granted",
+      "window": 6
+    },
+    {
+      "event": "withdraw",
+      "from": "Granted",
+      "to": "Withdrawn",
+      "window": 10
+    }
+  ],
+  "dropped_capability": 2,
+  "emitted": 7,
+  "final_consent_state": "Withdrawn",
+  "manifest": {
+    "app_id": "org.axonos.demo.cursor",
+    "capabilities": [
+      "navigation"
+    ],
+    "max_rate_hz": 50
+  },
+  "suppressed_consent": 11,
+  "windows": 20,
+  "wire_size_bytes": 32
+}

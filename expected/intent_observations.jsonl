@@ -1,0 +1,7 @@
+{"attestation_hex":"63f5db80c0fdca42","confidence_raw":19811,"kind":"direction","session_id":11529215046068469761,"timestamp_us":0,"value":"up"}
+{"attestation_hex":"6df5dc286bae23e4","confidence_raw":20636,"kind":"direction","session_id":11529215046068469761,"timestamp_us":1000000,"value":"right"}
+{"attestation_hex":"e17069776bdce4fb","confidence_raw":23705,"kind":"direction","session_id":11529215046068469761,"timestamp_us":2000000,"value":"down"}
+{"attestation_hex":"25df0a0f34e7b01a","confidence_raw":26277,"kind":"direction","session_id":11529215046068469761,"timestamp_us":3000000,"value":"left"}
+{"attestation_hex":"83a493976543ab63","confidence_raw":20635,"kind":"direction","session_id":11529215046068469761,"timestamp_us":6000000,"value":"right"}
+{"attestation_hex":"ab2f292a3494e8b0","confidence_raw":23700,"kind":"direction","session_id":11529215046068469761,"timestamp_us":8000000,"value":"down"}
+{"attestation_hex":"9bc19a3050fe417b","confidence_raw":26281,"kind":"direction","session_id":11529215046068469761,"timestamp_us":9000000,"value":"left"}
