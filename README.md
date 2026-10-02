@@ -1,5 +1,7 @@
 # axonos-e2e-demo
 
+[![AxonOS Radar](https://img.shields.io/badge/AxonOS%20Radar-open%20neurotech%20map-1f8fae?style=flat-square&labelColor=0b1220)](https://axonos-bci.github.io/axonos-community-radar/)
+
 **A reproducible, end-to-end AxonOS intent flow — synthetic signal in, typed consent-bound intent out.**
 
 This repository answers one diligence question directly: *can AxonOS show a complete, reproducible path from a signal frame to a typed intent event an application can consume, with the consent and capability boundary actually enforced?* It runs that whole path in software, on clearly-labelled synthetic data, and verifies the output bit-for-bit on every run.
